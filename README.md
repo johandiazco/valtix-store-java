@@ -40,7 +40,7 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/valtix-store.git
+   git clone https://github.com/johandiazco/valtix-store-java.git
    cd valtix-store
 
 
